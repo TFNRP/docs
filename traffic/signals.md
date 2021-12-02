@@ -14,20 +14,20 @@ Signal   9 | Busy
 Signal  10 | Speed Trap
 Signal  11 | Running Radar
 Signal  12 | Ready on Spike Strip
-</hr> | </hr>
+| </hr> | </hr>
 Signal  37 | Meet @ ...
-</hr> | </hr>
+| </hr> | </hr>
 Signal  41 | 10-8, 10-41 (on MDT)
 Signal  42 | 10-7, 10-42 (off MDT)
-</hr> | </hr>
+| </hr> | </hr>
 Signal  50 | K-9 Response
-</hr> | </hr>
+| </hr> | </hr>
 Signal  60 | Drug Transport
-</hr> | </hr>
+| </hr> | </hr>
 Signal  70 | Body Transport
-</hr> | </hr>
+| </hr> | </hr>
 Signal  80 | Bomb Transport
-</hr> | </hr>
+| </hr> | </hr>
 Signal  90 | Illegal Weaponry Transport
-</hr> | </hr>
+| </hr> | </hr>
 Signal 100 | Emergency Traffic Only

@@ -20,17 +20,17 @@ Code 8A | Working Fire
 Code 8B | Explosion
 Code 9 | All-Unit Report (10-73)
 Code 10 | SWAT/SRT Response
-</hr> | </hr>
+| </hr> | </hr>
 Code 12 | False Alarm
-</hr> | </hr>
+| </hr> | </hr>
 Code 30 | Burglar Alarm
-</hr> | </hr>
+| </hr> | </hr>
 Code 37 | Vehicle Reported Stolen
-</hr> | </hr>
+| </hr> | </hr>
 Code 77 | Caution, Possible Ambush
-</hr> | </hr>
+| </hr> | </hr>
 Code 100 | In Position to Intercept
-</hr> | </hr>
+| </hr> | </hr>
 Code 200 | Prison Break
 
 ## 10 Codes
@@ -112,19 +112,19 @@ Code | Information
 10-54 | Escort
 10-55 | Intoxicated Pedestrian
 10-55A | Intoxicated Driver
-</hr> | </hr>
+| </hr> | </hr>
 10-57 | Protest
 10-57A | High Risk Protest
 10-57B | Armed Protest
-</hr> | </hr>
+| </hr> | </hr>
 10-60 | Armed with a Deadly Weapon
 10-60A | Armed with a Gun
 10-60B | Armed with a Knife
 10-60C | Armed with a Bomb
-</hr> | </hr>
+| </hr> | </hr>
 10-62 | Kidnapping
 10-62A | LEO Kidnapping
-</hr> | </hr>
+| </hr> | </hr>
 10-64 | Assault
 10-64A | Sexual Assault
 10-65 | Escorting Prisoner
@@ -137,7 +137,7 @@ Code | Information
 10-72 | Coroner
 10-73 | Advise Status
 10-74 | Status Affirm
-</hr> | </hr>
+| </hr> | </hr>
 10-77 | Officer Hit
 10-78 | Civilian Hit
 10-79 | Hostage Situation
