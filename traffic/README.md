@@ -1,6 +1,6 @@
 # Radio Traffic
 
-This section supplies guideliens for radio traffic.
+This section supplies guidelines for radio traffic.
 
 - [`SOP`](https://github.com/TFNRP/docs/blob/main/traffic/SOP.md) - Standard Operation Procedure.
 - [`codes`](https://github.com/TFNRP/docs/blob/main/traffic/codes.md) - Radio codes.
