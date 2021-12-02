@@ -5,8 +5,8 @@ Codes which are not applicable or missing have been omitted.
 Code | Information
 -- | --
 Code 0 | Game Crash
-Code 1 | Ambulance Response, Priority
-Code 2 | No Lights, No Siren
+Code 1 | No Lights, No Siren
+Code 2 | Lights, No Siren
 Code 3 | Lights and Siren
 Code 4 | Under Control
 Code 5 | Felony / High Risk Stop
