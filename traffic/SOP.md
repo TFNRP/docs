@@ -6,24 +6,24 @@ Within Strict RTO channels, unnecessary traffic may not be transmitted.
 
 ### Transmission Lifecycle
 
-Your transmission must be immediately halted if a 10-3 is requested by dispatch.  
+Your transmission must be immediately halted if a [10-3](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-3) is requested by dispatch.  
 This is still applicable during self-dispatching.
 
 #### Sending
 
-If Signal 100 is active, you may only send priority traffic.
+If [Signal 100](https://github.com/TFNRP/docs/blob/main/traffic/signals.md#signal-100) is active, you may only send priority traffic.
 
 1. Wait for clear radio traffic;  
 1. Callsign and addressed party stated;  
-`"`[`One-King-Forty-One`](https://github.com/TFNRP/docs/blob/main/metro/units.md#metro-area-platoon)` to Dispatch"`
+`"`[`One-King-Forty-One`](https://github.com/TFNRP/docs/blob/main/division/metro/units.md#metro-area-platoon)` to Dispatch"`
 `"One-Charlie-Thirty-Seven to Three-Charlie-Twelve direct"`
 1. Wait for the response of stated party;  
 `"Go ahead"`
 1. Send traffic immediately, with codes used where applicable;  
-`"`[`One-King-Tango-Twenty-Nine conducting`](https://github.com/TFNRP/docs/blob/main/metro/units.md#metro-traffic-enforcement)` a `[`Ten-Eleven`](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-11)` on 5678"`
+`"`[`One-King-Tango-Twenty-Nine conducting`](https://github.com/TFNRP/docs/blob/main/division/metro/units.md#metro-traffic-enforcement)` a `[`Ten-Eleven`](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-11)` on 5678"`
 1. Wait for the response of stated party;  
 `"`[`Ten-Four`](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-4)`"`
-1. Repeat 4-6 until ended by a 10-4.
+1. Repeat 4-6 until ended by a [10-4](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-4).
 
 #### Receiving
 
@@ -33,7 +33,7 @@ If Signal 100 is active, you may only send priority traffic.
 `"`[`Ten-Seventy-Three`](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-73)`"`
 1. Send response traffic immediately, with codes used where applicable;  
 `"`[`Ten-Eight`](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-8)`, `[`Ten-Seventy-Four`](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-74)`"`
-1. Repeat 2-4 until ended by a 10-4.
+1. Repeat 2-4 until ended by a [10-4](https://github.com/TFNRP/docs/blob/main/traffic/codes.md#10-4).
 
 ## Self-Dispatch
 
